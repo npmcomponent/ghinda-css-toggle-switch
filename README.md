@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [ghinda/css-toggle-switch](http://github.com/ghinda/css-toggle-switch). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/ghinda-css-toggle-switch`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # CSS Toggle Switch
 
 [![Build Status](https://travis-ci.org/ghinda/css-toggle-switch.png)](https://travis-ci.org/ghinda/css-toggle-switch)
